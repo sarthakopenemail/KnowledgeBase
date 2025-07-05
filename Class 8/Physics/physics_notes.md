@@ -13,3 +13,11 @@ Q ) `Why we are not crushed under this weight of air/atmospheric pressure?`
 Q ) `How can you demonstrate the effect of atmospheric pressure?`
 
 --> Activity 3.1
+
+## Factors Affecting Atmospheric Pressure
+
+--> The atmospheric pressure can be affected by three types:- 
+
+    (i) Altitude - As we go gigher altitude the atmospheric pressure decreases. 
+
+    (ii) Temperature - The atmospheric pressure decreases with increse in temperature.
